@@ -5,11 +5,7 @@ This project predicts the presence of heart disease using logistic regression an
 
 ## Dataset
 The dataset used is `heart.csv`, which contains patient information like age, sex, chest pain type, and more.
-**Note**: In the code section labeled "Load libraries & data" you should update the file path (/Users/arpad/Downloads/heart.csv) to match the location where you downloaded or stored the dataset locally.
-
-# Load libraries & data
-df = pd.read_csv("/path/to/your/heart.csv")
-df.head()
+- **Note**: In the code section labeled "Load libraries & data" you should update the file path (/Users/arpad/Downloads/heart.csv) to match the location where you downloaded or stored the dataset locally.
 
 ## Key Features
 - **EDA**: Visualizations of feature distributions and correlations.
